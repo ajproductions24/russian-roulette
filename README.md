@@ -37,7 +37,7 @@
     <li><code>.buy</code>, <code>.sell</code> - You can sell anything from your inventory and buy anything from the shop</li>
     <li><code>.trade</code> - There are some items that can be traded for other items of similar value</li>
   </ul>  
-  <h2>Gambling commands</h2>
+  <h2>Gambling Commands</h2>
   <ul>
     <li>Bet your coins with commands like: <code>.dice</code>, <code>.blackjack</code>, <code>.slots</code>, <code>.coinflip</code>, <code>.multidice</code>, <code>.wheel</code></li>
   </ul>
