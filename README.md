@@ -1,6 +1,6 @@
 <main class="entity-content__description"><div class="content">
 <blockquote>
-  <h2>Russian Roulette Bot</h2>
+  <h1>Russian Roulette Bot</h1>
   <p>
     <span>The Russian Roulette Bot</span> increases server engagement and popularity. It also creates a fun enviroment for entertainment.
   </p>
