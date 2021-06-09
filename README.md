@@ -34,16 +34,16 @@
     <li><code>.rr</code> - The most basic command to create a Russian Roulette match</li>
     <li><code>.duel</code> - Fight with another player (2 players only)</li>
     <li><code>.shop</code> - Here you can see what kind of stuff you can buy</li>
-    <li><code>.buy</code>, <code>sell</code> - You can sell anything from your inventory and buy anything from the shop</li>
+    <li><code>.buy</code>, <code>.sell</code> - You can sell anything from your inventory and buy anything from the shop</li>
     <li><code>.trade</code> - There are some items that can be traded for other items of similar value</li>
   </ul>  
   <h2>Gambling commands</h2>
   <ul>
-    <li>Bet your coins with commands like: <code>dice</code>, <code>blackjack</code>, <code>slots</code>, <code>coinflip</code>, <code>multidice</code>, <code>wheel</code></li>
+    <li>Bet your coins with commands like: <code>.dice</code>, <code>.blackjack</code>, <code>.slots</code>, <code>.coinflip</code>, <code>.multidice</code>, <code>.wheel</code></li>
   </ul>
 <blockquote>
   <p>
-    There are <b>a lot</b> of other commands <b> * <b>  such as <code>guild</code>, <code>daily</code>, <code>unlock</code>, <code>nerf</code>, <code>time travel</code>, <code>reverse</code> and more!
+    There are <b>a lot</b> of other commands <b> * <b>  such as <code>.guild</code>, <code>.daily</code>, <code>.unlock</code>, <code>.nerf</code>, <code>.time travel</code>, <code>.reverse</code> and more!
   </p>
 </blockquote>
   <p>
